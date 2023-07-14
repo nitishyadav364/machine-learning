@@ -1,2 +1,2 @@
 # machine-learning
-these are machine kearning algorithms i had learnt.
+these are Machine Learning algorithms i have learned.
